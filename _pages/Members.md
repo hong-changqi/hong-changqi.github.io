@@ -1,5 +1,4 @@
 ---
-title: "Key Members"
 permalink: /Members/
 layout: single
 classes: wide
