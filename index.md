@@ -7,20 +7,21 @@ header:
   actions:
   - label: "Learn More"
     url: "/about/"
+  excerpt: "Agile Minds Leading Revolution"
 intro: 
-  - excerpt: 'Agile Minds Leading Revolution'
+  - excerpt: 'Pan-Asia Youth Collaborative Academic Team on Lifetime and Reliability'
 feature_row:
   - image_path: assets/images/1.jpg
     alt: "Figure failed to load"
-    title: "About"
+    title: "Key Members"
     excerpt: "**about us**"
-    url: "/about/"
+    url: "/Members/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2.jpg
     alt: "Figure failed to load"
-    title: "Projects"
-    excerpt: "**our projects**"
+    title: "Platform"
+    excerpt: "**our platform**"
     url: "/Projects/"
     btn_label: "Read More"
     btn_class: "btn--primary"

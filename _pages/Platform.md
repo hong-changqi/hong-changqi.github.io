@@ -1,16 +1,12 @@
 ---
-title: "Shared Plantform"
-permalink: /Plantform/
+permalink: /Platform/
 layout: single
-toc: true
-toc_label: "Our Projects"
-toc_sticky: false
+classes: wide
 ---
-
 # Dual-Cloud Synergy Architecture for Optimized Storage and Sharing
 
 {% capture fig_img %}
-![Figure failed to load]({{ '/assets/images/plantform/platform.jpg' | relative_url }})
+![Figure failed to load]({{ '/assets/images/platform/platform.jpg' | relative_url }})
 {% endcapture %}
 
 <figure>
@@ -23,17 +19,17 @@ The Dual-Cloud Synergy Architecture strategically integrates public and private 
 
 This architecture achieves three critical advantages: 
 
-## Storage-Transmission Decoupling
+1. Storage-Transmission Decoupling
 
-mitigates HuaLi Cloud's space constraints (typically 50GB/user) while preserving Baidu Cloud's robust archival capabilities; 
+   mitigates HuaLi Cloud's space constraints (typically 50GB/user) while preserving Baidu Cloud's robust archival capabilities; 
 
-## Agile Collaboration
+2. Agile Collaboration
 
-reduces file-sharing latency by 98% (from 3-minute uploads to 3-second link generation), with multi-layered security protocols (time-limited access, password protection, and IP whitelisting) ensuring confidential data integrity; 
+   reduces file-sharing latency by 98% (from 3-minute uploads to 3-second link generation), with multi-layered security protocols (time-limited access, password protection, and IP whitelisting) ensuring confidential data integrity; 
 
-## Unified Governance
+3. Unified Governance
 
-employs intelligent synchronization modules to automatically update shared links when source files undergo version iterations, eliminating manual maintenance.
+   employs intelligent synchronization modules to automatically update shared links when source files undergo version iterations, eliminating manual maintenance.
 
 # Implementation Scenarios
 
@@ -41,4 +37,4 @@ Academic institutions deploy this system to manage cross-departmental research m
 
 # Strategic Value
 
-By adopting the "Private-Cloud Storage + Public-Cloud Gateway" paradigm, organizations reduce public cloud expansion costs by 40-60% while maintaining ISO 27001-compliant data stewardship. This framework establishes a blueprint for resource-optimized digital colla
+By adopting the "Private-Cloud Storage + Public-Cloud Gateway" paradigm, organizations reduce public cloud expansion costs by 40-60% while maintaining ISO 27001-compliant data stewardship. This framework establishes a blueprint for resource-optimized digital collaboration in data-intensive environments.

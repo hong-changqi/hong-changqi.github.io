@@ -113,9 +113,9 @@ defaults:
 Members:
   type: liquid
   path: /Members/
-Plantform:
+Platform:
   type: liquid
-  path: /Plantform/
+  path: /Platform/
 category_archive:
   type: liquid
   path: /categories/

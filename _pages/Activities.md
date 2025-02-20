@@ -1,7 +1,9 @@
 ---
-title: "Activities"
 permalink: /Activities/
 layout: single
+classes: wide
 ---
 
-# Coming soon ...
+# Activities
+
+Coming soon ...
