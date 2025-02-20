@@ -1,4 +1,5 @@
 ---
+title: "PYCAT-LR"
 layout: splash
 header:
   overlay_filter: linear-gradient(rgba(0, 146, 202, 0.1), rgba(0, 146, 202, 0.5))
@@ -7,7 +8,7 @@ header:
   actions:
   - label: "Learn More"
     url: "/about/"
-  excerpt: "Agile Minds Leading Revolution"
+excerpt: "Agile Minds Leading Revolution"
 intro: 
   - excerpt: 'Pan-Asia Youth Collaborative Academic Team on Lifetime and Reliability'
 feature_row:

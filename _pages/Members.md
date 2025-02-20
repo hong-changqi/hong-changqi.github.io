@@ -1,4 +1,5 @@
 ---
+title: false
 permalink: /Members/
 layout: single
 classes: wide
