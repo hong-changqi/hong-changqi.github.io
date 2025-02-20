@@ -22,7 +22,7 @@ feature_row:
     alt: "Figure failed to load"
     title: "Platform"
     excerpt: "**our platform**"
-    url: "/Projects/"
+    url: "/Platform/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/3.jpg
