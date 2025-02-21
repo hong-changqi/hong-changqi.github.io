@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_filter: linear-gradient(rgba(0, 146, 202, 0.1), rgba(0, 146, 202, 0.5))
   overlay_filter: "0.2"
-  overlay_image: /assets/images/0.png
+  overlay_image: /assets/images/index/0.jpg
   actions:
   - label: "Learn More"
     url: "/about/"
@@ -12,25 +12,25 @@ excerpt: "Agile Minds Leading Revolution"
 intro: 
   - excerpt: 'Pan-Asia Youth Collaborative Academic Team on Lifetime and Reliability'
 feature_row:
-  - image_path: assets/images/1.jpg
+  - image_path: assets/images/index/1.jpg
     alt: "Figure failed to load"
     title: "Key Members"
     excerpt: "**about us**"
     url: "/Members/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/2.jpg
+  - image_path: /assets/images/index/2.jpg
     alt: "Figure failed to load"
     title: "Platform"
     excerpt: "**our platform**"
     url: "/Platform/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/3.jpg
+  - image_path: /assets/images/index/3.jpg
     alt: "Figure failed to load"
-    title: "Publications"
-    excerpt: "**our publications**"
-    url: "/categories/"
+    title: "Skills"
+    excerpt: "**research skills**"
+    url: "/Skills/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---

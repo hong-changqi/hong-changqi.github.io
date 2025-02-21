@@ -4,6 +4,9 @@ permalink: /Members/
 layout: single
 classes: wide
 ---
+<figure>
+    <img src="/assets/images/member/au1.jpg" alt="Figure failed to load">
+</figure>
 
 # Team Leader
 

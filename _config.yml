@@ -116,6 +116,9 @@ Members:
 Platform:
   type: liquid
   path: /Platform/
+Skills:
+  type: liquid
+  path: /Skills/
 category_archive:
   type: liquid
   path: /categories/

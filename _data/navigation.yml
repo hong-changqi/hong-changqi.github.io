@@ -5,6 +5,8 @@ main:
     url: /Members/
   - title: "Platform"
     url: /Platform/
+  - title: "Skills"
+    url: /Skills/
   - title: "Publications"
     url: /categories/
   - title: "Activities"
