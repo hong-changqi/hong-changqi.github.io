@@ -1,4 +1,5 @@
 ---
+title: false
 permalink: /about/
 classes: wide
 ---
