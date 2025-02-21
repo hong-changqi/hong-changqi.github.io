@@ -1,6 +1,6 @@
 ---
 title: false
-permalink: /about/
+permalink: /Skills/
 classes: wide
 ---
 # Research skills 
