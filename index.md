@@ -21,7 +21,7 @@ feature_row:
   - image_path: assets/images/index/1.jpg
     alt: "Figure failed to load"
     title: "Members"
-    excerpt: "key members"
+    excerpt: "Key members"
     url: "/Members/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -29,7 +29,7 @@ feature_row:
   - image_path: /assets/images/index/2.jpg
     alt: "Figure failed to load"
     title: "Platform"
-    excerpt: "our platform"
+    excerpt: "Our platform"
     url: "/Platform/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -37,7 +37,7 @@ feature_row:
   - image_path: /assets/images/index/3.jpg
     alt: "Figure failed to load"
     title: "Skills"
-    excerpt: "research skills"
+    excerpt: "Research skills"
     url: "/Skills/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -45,7 +45,7 @@ feature_row:
   - image_path: /assets/images/index/4.jpg
     alt: "Figure failed to load"
     title: "Publications"
-    excerpt: "publication list"
+    excerpt: "Publication list"
     url: "/categories/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -53,7 +53,7 @@ feature_row:
   - image_path: /assets/images/index/5.jpg
     alt: "Figure failed to load"
     title: "Activities"
-    excerpt: "academic activities"
+    excerpt: "Academic activities"
     url: "/Activities/"
     btn_label: "Read More"
     btn_class: "btn--primary"
