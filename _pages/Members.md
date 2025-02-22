@@ -4,15 +4,23 @@ permalink: /Members/
 layout: single
 classes: wide
 ---
+# Organizational Structure
+
+<figure>
+    <img src="/assets/images/member/os1.jpg" alt="Figure failed to load">
+</figure>
+
+# Members
+
 <figure>
     <img src="/assets/images/member/au1.jpg" alt="Figure failed to load">
 </figure>
 
-# Team Leader
+## Team Leader
 
 **Run-Zi Wang**: Tohoku University (Assistant Professor)
 
-# Collaborative Researchers
+## Collaborative Researchers
 
 **Shun Tokita**: Tohoku University (Assistant Professor)
 
@@ -30,14 +38,14 @@ classes: wide
 
 **Ayumi Nakayama**: Chubu Electric Power Co., Inc. (Advanced Engineer)
 
-# Mentor Panel:
+## Mentor Panel:
 Professor **Tetsuo Shoji**: Tohoku University, Member of the Engineering Academy of Japan
 
 Professor **Shan-Tung Tu**:  East China University of Science and Technology; Academician of the Chinese Academy of Engineering
 
 Professor **Hideo Miura**: Shimane University, Vice President of Shimane University
 
-# PhD Students：
+## PhD Students：
 
 **Kiyoaki Suzuki**: Tohoku University (PhD student)
 

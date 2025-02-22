@@ -19,6 +19,7 @@ feature_row:
     url: "/Members/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    
   - image_path: /assets/images/index/2.jpg
     alt: "Figure failed to load"
     title: "Platform"
@@ -26,11 +27,28 @@ feature_row:
     url: "/Platform/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    
   - image_path: /assets/images/index/3.jpg
     alt: "Figure failed to load"
     title: "Skills"
     excerpt: "**research skills**"
     url: "/Skills/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    
+  - image_path: /assets/images/index/4.jpg
+    alt: "Figure failed to load"
+    title: "Publications"
+    excerpt: "**Publications**"
+    url: "/categories/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    
+  - image_path: /assets/images/index/5.jpg
+    alt: "Figure failed to load"
+    title: "Activities"
+    excerpt: "**Activities**"
+    url: "/Activities/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---

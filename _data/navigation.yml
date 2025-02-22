@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Key Members"
+  - title: "Members"
     url: /Members/
   - title: "Platform"
     url: /Platform/
