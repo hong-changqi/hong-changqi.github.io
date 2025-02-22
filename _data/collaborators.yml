@@ -1,0 +1,123 @@
+Shun Tokita:
+  name   : "Shun Tokita"
+  avatar : "/assets/images/authors/Shun Tokita.jpg"
+  bio    : "Grain boundary engineering; Microstructure control; Welding"
+  location: "Tohoku University (Assistant Professor)"
+  links:
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=f2jgg6MAAAAJ"
+      external: true
+    - label: "ResearchMap"
+      icon: "fas fa-fw fa-link"
+      url: "https://researchmap.jp/ShunTokita"
+      external: true
+    - label: "E-Mail"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:shun.tokita.c4@tohoku.ac.jp"
+      external: true
+
+Nak-Kyun Cho:
+  name   : "Nak-Kyun Cho"
+  avatar : "/assets/images/authors/Nak-Kyun Cho.jpg"
+  bio    : "Structural integrity; Cyclic plasticity; Non-linear analysis"
+  location: "Seoul National University of Science and Technology (Assistant Professor)"
+  links:
+    - label: "Homepage"
+      icon: "fas fa-fw fa-link"
+      url: "https://noba.seoultech.ac.kr/subList/20000005643"
+      external: true
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=G_8yADkAAAAJ&hl"
+      external: true
+    - label: "E-Mail"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:nkcho@seoultech.ac.kr"
+      external: true
+
+Ji Wang:
+  name   : "Ji Wang"
+  avatar : "/assets/images/authors/Ji Wang.jpg"
+  bio    : "Fracture mechanics; Micro-nano mechanics; Damage tolerance"
+  location: "Nanjing Tech University (Assistant Professor)"
+  links:
+    - label: "Homepage"
+      icon: "fas fa-fw fa-link"
+      url: "https://mech.njtech.edu.cn/info/1019/4034.htm"
+      external: true
+    - label: "E-Mail"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:wang_ji@njtech.edu.cn"
+      external: true
+
+Xinyu Yang:
+  name   : "Xinyu Yang"
+  avatar : "/assets/images/authors/Xinyu Yang.jpg"
+  bio    : "Phase field; Additive manufacturing; Machine learning"
+  location: "Institute of High Performance Computing, A*STAR (Scientist)"
+  links:
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?hl=ja&user=IlTWZGgAAAAJ"
+      external: true
+    - label: "ResearchGate"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.researchgate.net/profile/Xinyu-Yang-41"
+      external: true
+    - label: "E-Mail"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:Yang_Xinyu@ihpc.a-star.edu.sg"
+      external: true
+
+Le Xu:
+  name   : "Le Xu"
+  avatar : "/assets/images/authors/Le Xu.jpg"
+  bio    : "Multiaxial loading; Constitutive modelling; Finite element analysis"
+  location: "Tohoku University (Postdoc)"
+  links:
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?hl=ja&user=zhjP7-IAAAAJ"
+      external: true
+    - label: "E-Mail"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:xu.le.b6@tohoku.ac.jp"
+      external: true
+
+Kai-Shang Li:
+  name   : "Kai-Shang Li"
+  avatar : "/assets/images/authors/Kai-Shang Li.jpg"
+  bio    : "Creep-fatigue; Crystal plasticity; Surface strengthening; Life prediction"
+  location: "East China University of Science and Technology (Postdoc)"
+  links:
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=PPb9ScQAAAAJ&hl=ja&oi=ao"
+      external: true
+    - label: "E-Mail"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:Kaishang_Li@ecust.edu.cn"
+      external: true
+
+Li Sun:
+  name   : "Li Sun"
+  avatar : "/assets/images/authors/Li Sun.jpg"
+  bio    : "Crystallographic analysis; Damage mechanics; Material degradation"
+  location: "East China University of Science and Technology (Postdoc)"
+  links:
+    - label: "E-Mail"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:lsun24@ecust.edu.cn"
+      external: true
+
+Ayumi Nakayama:
+  name   : "Ayumi Nakayama"
+  avatar : "/assets/images/authors/Ayumi Nakayama.jpg"
+  bio    : "Superalloys; Creep; Precipitate behaviors"
+  location: "Chubu Electric Power Co., Inc. (Advanced Engineer)"
+  links:
+    - label: "E-Mail"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:nakayama.ayumi@chuden.co.jp"
+      external: true

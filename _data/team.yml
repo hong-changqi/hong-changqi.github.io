@@ -1,0 +1,22 @@
+Run-Zi Wang:
+  name   : "Run-Zi Wang"
+  avatar : "/assets/images/authors/Run-Zi Wang.jpg"
+  bio    : "Active lifetime design by integrating modelling-driven material strength with knowledge-reinforced structural integrity, enhancing creep-fatigue resistance and reliability towards carbon neutrality."
+  location: "Tohoku University (Assistant Professor)"
+  links:
+    - label: "Homepage"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.crc-ms.tohoku.ac.jp/en/result/newresearcher/runzi_index.html"
+      external: true
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=gZ5NubYAAAAJ&hl"
+      external: true
+    - label: "ResearchMap"
+      icon: "fas fa-fw fa-link"
+      url: "https://researchmap.jp/rzwang"
+      external: true
+    - label: "E-Mail"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:runzi.wang.a7@tohoku.ac.jp"
+      external: true
