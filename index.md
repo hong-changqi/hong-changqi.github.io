@@ -1,5 +1,5 @@
 ---
-title: "PYCAT-LR"
+title: "Pan-Asia Youth Collaborative Academic Team on Lifetime and Reliability(PYCAT-LR)"
 layout: splash
 header:
   overlay_filter: linear-gradient(rgba(0, 146, 202, 0.1), rgba(0, 146, 202, 0.5))
