@@ -14,7 +14,7 @@ intro:
 feature_row:
   - image_path: assets/images/index/1.jpg
     alt: "Figure failed to load"
-    title: "Key Members"
+    title: "Organizational Structure"
     excerpt: "**about us**"
     url: "/Members/"
     btn_label: "Read More"
