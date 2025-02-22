@@ -1,5 +1,5 @@
 ---
-title: "Pan-Asia Youth Collaborative Academic Team on Lifetime and Reliability(PYCAT-LR)"
+title: "PYCAT-LR"
 layout: splash
 header:
   overlay_filter: linear-gradient(rgba(0, 146, 202, 0.1), rgba(0, 146, 202, 0.5))
@@ -8,9 +8,9 @@ header:
   actions:
   - label: "Learn More"
     url: "/about/"
-excerpt: "Agile Minds Leading Revolution"
+excerpt: "Pan-Asia Youth Collaborative Academic Team on Lifetime and Reliability"
 intro: 
-  - excerpt: 'Pan-Asia Youth Collaborative Academic Team on Lifetime and Reliability'
+  - excerpt: 'Agile Minds Leading Revolution'
 feature_row:
   - image_path: assets/images/index/1.jpg
     alt: "Figure failed to load"
