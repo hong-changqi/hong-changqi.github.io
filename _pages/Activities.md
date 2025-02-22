@@ -63,7 +63,7 @@ classes: wide
   <div class="member-photo">
     {% include figure image_path="/assets/images/authors/Nak-Kyun Cho.jpg" alt="Nak-Kyun Cho" %}
   </div>
-  <div class="member-info">
+  <div>
     <h3>Nak-Kyun Cho</h3>
     <p class="member-position">Seoul National University of Science and Technology (Assistant Professor)</p>
     <div class="member-bio">
