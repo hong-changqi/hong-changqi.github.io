@@ -89,22 +89,13 @@ classes: wide
   grid-template-columns: 200px 1fr;
   gap: 2rem;
   margin-bottom: 3rem;
-  padding: 1.5rem;
-  border: 1px solid var(--border-color);
-  border-radius: 8px;
 }
 
 .member-photo img {
   border-radius: 4px;
 }
 
-.member-info h3 {
-  margin-top: 0;
-  color: var(--text-title-color);
-}
-
 .member-position {
-  color: var(--text-muted);
   font-weight: 500;
   margin-bottom: 1rem;
 }
