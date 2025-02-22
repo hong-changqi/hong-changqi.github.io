@@ -10,7 +10,7 @@ classes: wide
   <div class="member-photo">
     {% include figure image_path="/assets/images/authors/Run-Zi Wang.jpg" alt="Run-Zi Wang" %}
   </div>
-  <div class="member-info">
+  <div>
     <h3>Run-Zi Wang</h3>
     <p class="member-position">Tohoku University (Assistant Professor)</p>
     <div class="member-bio">
@@ -35,11 +35,12 @@ classes: wide
 
 ## Collaborative Researchers
 
+<!-- Shun Tokita -->
 <div class="member-profile">
   <div class="member-photo">
     {% include figure image_path="/assets/images/authors/Shun Tokita.jpg" alt="Shun Tokita" %}
   </div>
-  <div class="member-info">
+  <div>
     <h3>Shun Tokita</h3>
     <p class="member-position">Tohoku University (Assistant Professor)</p>
     <div class="member-bio">
@@ -59,6 +60,7 @@ classes: wide
   </div>
 </div>
 
+<!-- Nak-Kyun Cho -->
 <div class="member-profile">
   <div class="member-photo">
     {% include figure image_path="/assets/images/authors/Nak-Kyun Cho.jpg" alt="Nak-Kyun Cho" %}
@@ -83,12 +85,196 @@ classes: wide
   </div>
 </div>
 
+<!-- Ji Wang -->
+<div class="member-profile">
+  <div class="member-photo">
+    {% include figure image_path="/assets/images/authors/Ji Wang.jpg" alt="Ji Wang" %}
+  </div>
+  <div>
+    <h3>Ji Wang</h3>
+    <p class="member-position">Nanjing Tech University (Assistant Professor)</p>
+    <div class="member-bio">
+      Fracture mechanics; Micro-nano mechanics; Damage tolerance
+    </div>
+    <div class="member-links">
+      <a href="https://mech.njtech.edu.cn/info/1019/4034.htm" class="btn btn--primary" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-link fa-fw"></i> Homepage
+      </a>
+      <a href="mailto:wang_ji@njtech.edu.cn" class="btn btn--primary">
+        <i class="fas fa-envelope fa-fw"></i> Email
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- Xinyu Yang -->
+<div class="member-profile">
+  <div class="member-photo">
+    {% include figure image_path="/assets/images/authors/Xinyu Yang.jpg" alt="Xinyu Yang" %}
+  </div>
+  <div>
+    <h3>Xinyu Yang</h3>
+    <p class="member-position">Institute of High Performance Computing, A*STAR (Scientist)</p>
+    <div class="member-bio">
+      Phase field; Additive manufacturing; Machine learning
+    </div>
+    <div class="member-links">
+      <a href="https://scholar.google.com/citations?hl=ja&user=IlTWZGgAAAAJ" class="btn btn--primary" target="_blank" rel="noopener noreferrer">
+        <i class="fab fa-google fa-fw"></i> Google Scholar
+      </a>
+      <a href="https://www.researchgate.net/profile/Xinyu-Yang-41" class="btn btn--primary" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-link fa-fw"></i> ResearchGate
+      </a>
+      <a href="mailto:Yang_Xinyu@ihpc.a-star.edu.sg" class="btn btn--primary">
+        <i class="fas fa-envelope fa-fw"></i> Email
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- Le Xu -->
+<div class="member-profile">
+  <div class="member-photo">
+    {% include figure image_path="/assets/images/authors/Le Xu.jpg" alt="Le Xu" %}
+  </div>
+  <div>
+    <h3>Le Xu</h3>
+    <p class="member-position">Tohoku University (Postdoc)</p>
+    <div class="member-bio">
+      Multiaxial loading; Constitutive modelling; Finite element analysis
+    </div>
+    <div class="member-links">
+      <a href="https://scholar.google.com/citations?hl=ja&user=zhjP7-IAAAAJ" class="btn btn--primary" target="_blank" rel="noopener noreferrer">
+        <i class="fab fa-google fa-fw"></i> Google Scholar
+      </a>
+      <a href="mailto:xu.le.b6@tohoku.ac.jp" class="btn btn--primary">
+        <i class="fas fa-envelope fa-fw"></i> Email
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- Kai-Shang Li -->
+<div class="member-profile">
+  <div class="member-photo">
+    {% include figure image_path="/assets/images/authors/Kai-Shang Li.jpg" alt="Kai-Shang Li" %}
+  </div>
+  <div>
+    <h3>Kai-Shang Li</h3>
+    <p class="member-position">East China University of Science and Technology (Postdoc)</p>
+    <div class="member-bio">
+      Creep-fatigue; Crystal plasticity; Surface strengthening; Life prediction
+    </div>
+    <div class="member-links">
+      <a href="https://scholar.google.com/citations?user=PPb9ScQAAAAJ&hl=ja&oi=ao" class="btn btn--primary" target="_blank" rel="noopener noreferrer">
+        <i class="fab fa-google fa-fw"></i> Google Scholar
+      </a>
+      <a href="mailto:Kaishang_Li@ecust.edu.cn" class="btn btn--primary">
+        <i class="fas fa-envelope fa-fw"></i> Email
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- Li Sun -->
+<div class="member-profile">
+  <div class="member-photo">
+    {% include figure image_path="/assets/images/authors/Li Sun.jpg" alt="Li Sun" %}
+  </div>
+  <div>
+    <h3>Li Sun</h3>
+    <p class="member-position">East China University of Science and Technology (Postdoc)</p>
+    <div class="member-bio">
+      Crystallographic analysis; Damage mechanics; Material degradation
+    </div>
+    <div class="member-links">
+      <a href="mailto:lsun24@ecust.edu.cn" class="btn btn--primary">
+        <i class="fas fa-envelope fa-fw"></i> Email
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- Ayumi Nakayama -->
+<div class="member-profile">
+  <div class="member-photo">
+    {% include figure image_path="/assets/images/authors/Ayumi Nakayama.jpg" alt="Ayumi Nakayama" %}
+  </div>
+  <div>
+    <h3>Ayumi Nakayama</h3>
+    <p class="member-position">Chubu Electric Power Co., Inc. (Advanced Engineer)</p>
+    <div class="member-bio">
+      Superalloys; Creep; Precipitate behaviors
+    </div>
+    <div class="member-links">
+      <a href="mailto:nakayama.ayumi@chuden.co.jp" class="btn btn--primary">
+        <i class="fas fa-envelope fa-fw"></i> Email
+      </a>
+    </div>
+  </div>
+</div>
+
+## Mentor Panel
+
+<div class="member-profile">
+  <div class="member-photo">
+    {% include figure image_path="/assets/images/authors/Tetsuo Shoji.jpg" alt="Tetsuo Shoji" %}
+  </div>
+  <div>
+    <h3>Tetsuo Shoji</h3>
+    <p class="member-position">Member of the Engineering Academy of Japan</p>
+  </div>
+</div>
+
+<div class="member-profile">
+  <div class="member-photo">
+    {% include figure image_path="/assets/images/authors/Shan-Tung Tu.jpg" alt="Shan-Tung Tu" %}
+  </div>
+  <div>
+    <h3>Shan-Tung Tu</h3>
+    <p class="member-position">East China University of Science and Technology</p>
+    <div class="member-bio">
+      Academician of the Chinese Academy of Engineering
+    </div>
+  </div>
+</div>
+
+<div class="member-profile">
+  <div class="member-photo">
+    {% include figure image_path="/assets/images/authors/Hideo Miura.jpg" alt="Hideo Miura" %}
+  </div>
+  <div>
+    <h3>Hideo Miura</h3>
+    <p class="member-position">Shimane University</p>
+    <div class="member-bio">
+      Vice President of Shimane University
+    </div>
+  </div>
+</div>
+
+
+## PhD Students
+
+**Kiyoaki Suzuki**: Tohoku University (PhD student)
+
+**Benjamin Leflon**: INSA Lyon (PhD student)
+
+**Yipu Xu**: Tohoku University (PhD student)
+
+**Hanghang Gu**: East China University of Science and Technology (PhD student)
+
+**Yu-Chen Wang**: Ritsumeikan University (PhD student)
+
+**Kyu Song**: Seoul National University of Science and Technology (PhD student)
+
+**Jinmyeong Heo**: Seoul National University of Science and Technology (PhD student)
+
+
 <style>
 .member-profile {
   display: grid;
   grid-template-columns: 200px 1fr;
   gap: 2rem;
-  margin-bottom: 3rem;
 }
 
 .member-photo img {
