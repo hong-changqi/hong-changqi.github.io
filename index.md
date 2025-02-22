@@ -58,7 +58,10 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-<link rel="icon" type="image/x-icon" href="favicon.ico"/>
+<head>
+    <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
+</head>
+
 
 <h1 type="center">Pan-Asia Youth Collaborative Academic Team on Lifetime and Reliability</h1>
 {: style="text-align: center;"}
