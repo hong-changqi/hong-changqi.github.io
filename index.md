@@ -14,8 +14,8 @@ intro:
 feature_row:
   - image_path: assets/images/index/1.jpg
     alt: "Figure failed to load"
-    title: "Organizational Structure"
-    excerpt: "**about us**"
+    title: "Members"
+    excerpt: "key members"
     url: "/Members/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -23,7 +23,7 @@ feature_row:
   - image_path: /assets/images/index/2.jpg
     alt: "Figure failed to load"
     title: "Platform"
-    excerpt: "**our platform**"
+    excerpt: "our platform"
     url: "/Platform/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -31,7 +31,7 @@ feature_row:
   - image_path: /assets/images/index/3.jpg
     alt: "Figure failed to load"
     title: "Skills"
-    excerpt: "**research skills**"
+    excerpt: "research skills"
     url: "/Skills/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -39,7 +39,7 @@ feature_row:
   - image_path: /assets/images/index/4.jpg
     alt: "Figure failed to load"
     title: "Publications"
-    excerpt: "**Publications**"
+    excerpt: "publication list"
     url: "/categories/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -47,7 +47,7 @@ feature_row:
   - image_path: /assets/images/index/5.jpg
     alt: "Figure failed to load"
     title: "Activities"
-    excerpt: "**Activities**"
+    excerpt: "academic activities"
     url: "/Activities/"
     btn_label: "Read More"
     btn_class: "btn--primary"
