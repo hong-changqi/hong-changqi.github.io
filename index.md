@@ -8,9 +8,9 @@ header:
   actions:
   - label: "Learn More"
     url: "/about/"
-excerpt: "Pan-Asia Youth Collaborative Academic Team on Lifetime and Reliability"
+excerpt: "Agile Minds Leading Revolution"
 intro: 
-  - excerpt: 'Agile Minds Leading Revolution'
+  - excerpt: 'Pan-Asia Youth Collaborative Academic Team on Lifetime and Reliability'
 feature_row:
   - image_path: assets/images/index/1.jpg
     alt: "Figure failed to load"
@@ -52,6 +52,12 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+
+<h1 type="center">Pan-Asia Youth Collaborative Academic Team on Lifetime and Reliability</h1>
+
+<h2 type="center">Pan-Asia Youth Collaborative Academic Team on Lifetime and Reliability</h2>
+
+<h3 type="center">Pan-Asia Youth Collaborative Academic Team on Lifetime and Reliability</h3>
 
 {% include feature_row id="intro" type="center" %}
 
