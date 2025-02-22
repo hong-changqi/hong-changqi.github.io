@@ -40,7 +40,7 @@ favicon:
   webmanifest: "/assets/images/favicons/site.webmanifest"  # PWA清单文件
 
   # 现代图标格式（推荐添加）
-  icon_96x96: "/assets/images/favicons/favicon-96X96.png"
+  icon_96x96: "/assets/images/favicons/favicon-96x96.png"
   mask_icon: "/assets/images/favicons/favicon.svg"
 
 
