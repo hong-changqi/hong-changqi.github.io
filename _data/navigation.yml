@@ -1,5 +1,5 @@
 main:
-  - title: "About"
+  - title: "Homepage"
     url: /about/
   - title: "Members"
     url: /Members/

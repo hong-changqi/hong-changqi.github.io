@@ -10,6 +10,14 @@ header:
     url: "/about/"
 excerpt: "Agile Minds Leading Revolution"
 feature_row:
+  - image_path: assets/images/index/6.jpg
+    alt: "Figure failed to load"
+    title: "Homepage"
+    excerpt: "About us"
+    url: "/about/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    
   - image_path: assets/images/index/1.jpg
     alt: "Figure failed to load"
     title: "Members"
