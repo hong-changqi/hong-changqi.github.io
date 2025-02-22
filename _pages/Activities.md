@@ -4,6 +4,6 @@ permalink: /Activities/
 layout: single
 classes: wide
 ---
-## Activities
+# Activities
 
 coming soon ...
