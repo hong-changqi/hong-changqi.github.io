@@ -19,8 +19,8 @@ classes: wide
     {% include figure image_path="/assets/images/authors/Run-Zi Wang.jpg" alt="Run-Zi Wang" %}
   </div>
   <div>
-    <h3>Run-Zi Wang, China</h3>
-    <p class="member-position">Tohoku University (Assistant Professor)</p>
+    <h3>Run-Zi Wang</h3>
+    <p class="member-position">Tohoku University (Assistant Professor), Japan</p>
     <div class="member-bio">
       Active lifetime design by integrating modelling-driven material strength with knowledge-reinforced structural integrity, enhancing creep-fatigue resistance and reliability towards carbon neutrality.
     </div>
@@ -49,8 +49,8 @@ classes: wide
     {% include figure image_path="/assets/images/authors/Shun Tokita.jpg" alt="Shun Tokita" %}
   </div>
   <div>
-    <h3>Shun Tokita, Japan</h3>
-    <p class="member-position">Tohoku University (Assistant Professor)</p>
+    <h3>Shun Tokita</h3>
+    <p class="member-position">Tohoku University (Assistant Professor), Japan</p>
     <div class="member-bio">
       Grain boundary engineering; Microstructure control; Welding
     </div>
@@ -74,8 +74,8 @@ classes: wide
     {% include figure image_path="/assets/images/authors/Nak-Kyun Cho.jpg" alt="Nak-Kyun Cho" %}
   </div>
   <div>
-    <h3>Nak-Kyun Cho, South Korea</h3>
-    <p class="member-position">Seoul National University of Science and Technology (Assistant Professor)</p>
+    <h3>Nak-Kyun Cho</h3>
+    <p class="member-position">Seoul National University of Science and Technology (Assistant Professor), South Korea</p>
     <div class="member-bio">
       Structural integrity; Cyclic plasticity; Non-linear analysis
     </div>
@@ -99,8 +99,8 @@ classes: wide
     {% include figure image_path="/assets/images/authors/Ji Wang.jpg" alt="Ji Wang" %}
   </div>
   <div>
-    <h3>Ji Wang, China</h3>
-    <p class="member-position">Nanjing Tech University (Assistant Professor)</p>
+    <h3>Ji Wang</h3>
+    <p class="member-position">Nanjing Tech University (Assistant Professor), China</p>
     <div class="member-bio">
       Fracture mechanics; Micro-nano mechanics; Damage tolerance
     </div>
@@ -121,8 +121,8 @@ classes: wide
     {% include figure image_path="/assets/images/authors/Xinyu Yang.jpg" alt="Xinyu Yang" %}
   </div>
   <div>
-    <h3>Xinyu Yang, China</h3>
-    <p class="member-position">Institute of High Performance Computing, A*STAR (Scientist)</p>
+    <h3>Xinyu Yang</h3>
+    <p class="member-position">Institute of High Performance Computing, A*STAR (Scientist), Singapore</p>
     <div class="member-bio">
       Phase field; Additive manufacturing; Machine learning
     </div>
@@ -146,8 +146,8 @@ classes: wide
     {% include figure image_path="/assets/images/authors/Le Xu.jpg" alt="Le Xu" %}
   </div>
   <div>
-    <h3>Le Xu, China</h3>
-    <p class="member-position">Tohoku University (Postdoc)</p>
+    <h3>Le Xu</h3>
+    <p class="member-position">Tohoku University (Postdoc), Japan</p>
     <div class="member-bio">
       Multiaxial loading; Constitutive modelling; Finite element analysis
     </div>
@@ -168,8 +168,8 @@ classes: wide
     {% include figure image_path="/assets/images/authors/Kai-Shang Li.jpg" alt="Kai-Shang Li" %}
   </div>
   <div>
-    <h3>Kai-Shang Li, China</h3>
-    <p class="member-position">East China University of Science and Technology (Postdoc)</p>
+    <h3>Kai-Shang Li</h3>
+    <p class="member-position">East China University of Science and Technology (Postdoc), China</p>
     <div class="member-bio">
       Creep-fatigue; Crystal plasticity; Surface strengthening; Life prediction
     </div>
@@ -190,8 +190,8 @@ classes: wide
     {% include figure image_path="/assets/images/authors/Li Sun.jpg" alt="Li Sun" %}
   </div>
   <div>
-    <h3>Li Sun, China</h3>
-    <p class="member-position">East China University of Science and Technology (Postdoc)</p>
+    <h3>Li Sun</h3>
+    <p class="member-position">East China University of Science and Technology (Postdoc), China</p>
     <div class="member-bio">
       Crystallographic analysis; Damage mechanics; Material degradation
     </div>
@@ -209,8 +209,8 @@ classes: wide
     {% include figure image_path="/assets/images/authors/Ayumi Nakayama.jpg" alt="Ayumi Nakayama" %}
   </div>
   <div>
-    <h3>Ayumi Nakayama, Japan</h3>
-    <p class="member-position">Chubu Electric Power Co., Inc. (Advanced Engineer)</p>
+    <h3>Ayumi Nakayama</h3>
+    <p class="member-position">Chubu Electric Power Co., Inc. (Advanced Engineer), Japan</p>
     <div class="member-bio">
       Superalloys; Creep; Precipitate behaviors
     </div>
@@ -229,8 +229,8 @@ classes: wide
     {% include figure image_path="/assets/images/authors/Tetsuo Shoji.jpg" alt="Tetsuo Shoji" %}
   </div>
   <div>
-    <h3>Tetsuo Shoji, Japan</h3>
-    <p class="member-position">Tohoku University</p>
+    <h3>Tetsuo Shoji</h3>
+    <p class="member-position">Tohoku University, Japan</p>
     <div class="member-bio">
       Member of the Engineering Academy of Japan
     </div>
@@ -242,8 +242,8 @@ classes: wide
     {% include figure image_path="/assets/images/authors/Shan-Tung Tu.jpg" alt="Shan-Tung Tu" %}
   </div>
   <div>
-    <h3>Shan-Tung Tu, China</h3>
-    <p class="member-position">East China University of Science and Technology</p>
+    <h3>Shan-Tung Tu</h3>
+    <p class="member-position">East China University of Science and Technology, China</p>
     <div class="member-bio">
       Academician of the Chinese Academy of Engineering
     </div>
@@ -255,8 +255,8 @@ classes: wide
     {% include figure image_path="/assets/images/authors/Hideo Miura.jpg" alt="Hideo Miura" %}
   </div>
   <div>
-    <h3>Hideo Miura, Japan</h3>
-    <p class="member-position">Shimane University</p>
+    <h3>Hideo Miura</h3>
+    <p class="member-position">Shimane University, Japan</p>
     <div class="member-bio">
       Vice President of Shimane University
     </div>
@@ -266,19 +266,19 @@ classes: wide
 
 ## PhD Students
 
-**Kiyoaki Suzuki, Japan**: Tohoku University (PhD student)
+**Kiyoaki Suzuki**: Tohoku University (PhD student), Japan
 
-**Benjamin Leflon, French**: INSA Lyon (PhD student)
+**Benjamin Leflon**: INSA Lyon (PhD student), French
 
-**Yipu Xu, China**: Tohoku University (PhD student)
+**Yipu Xu**: Tohoku University (PhD student), Japan
 
-**Hanghang Gu, China**: East China University of Science and Technology (PhD student)
+**Hanghang Gu**: East China University of Science and Technology (PhD student), China
 
-**Yu-Chen Wang, China**: Ritsumeikan University (PhD student)
+**Yu-Chen Wang**: Ritsumeikan University (PhD student), Japan
 
-**Kyu Song, South Korea**: Seoul National University of Science and Technology (PhD student)
+**Kyu Song**: Seoul National University of Science and Technology (PhD student), South Korea
 
-**Jinmyeong Heo, South Korea**: Seoul National University of Science and Technology (PhD student)
+**Jinmyeong Heo**: Seoul National University of Science and Technology (PhD student), South Korea
 
 
 <style>
