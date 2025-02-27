@@ -7,7 +7,7 @@ classes: wide
 # Activities
 
 <i class="fas fa-fire fa-fw fa-lg"></i>
-<h4>NEW</h4>
+NEW
 
 <div class="news-profile">
   <div class="news-photo">
