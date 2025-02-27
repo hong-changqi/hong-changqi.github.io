@@ -59,10 +59,10 @@ classes: wide
       <strong>Members:</strong> Prof. Run-Zi Wang, Prof. Nak-Yun Cho
     </div>
     <div class="news-bio">
-      <strong>Activity1:</strong> Prof. Wang organized and chaired an international forum titled Frontiers in Material Strength and Structural Integrity within CRCGP2024.
+      <strong>Activity1:</strong> Prof. Wang organized and chaired an international forum titled <i>Frontiers in Material Strength and Structural Integrity</i> within CRCGP2024.
     </div>
     <div class="news-bio">
-      <strong>Activity2:</strong> Prof. Cho was invited as a keynote speaker reporting Mechanical characterization of polydimethylsiloxane/multi-walled carbon nanotube sensor under cyclic loading.
+      <strong>Activity2:</strong> Prof. Cho was invited as a keynote speaker reporting <i>Mechanical characterization of polydimethylsiloxane/multi-walled carbon nanotube sensor under cyclic loading</i>.
     </div>
     <div class="news-bio">
       <strong>Location:</strong> Tohoku University, Sendai, Japan
