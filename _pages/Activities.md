@@ -10,6 +10,27 @@ classes: wide
   <div class="member-photo">
     {% include figure image_path="/assets/images/activities/20250227.jpg" alt="20250227" %}
   </div>
+  <div> 
+    <div>
+      <strong>Time:</strong> 2025.02.27
+    </div>
+    <div>
+      <strong>Members:</strong> Dr. Kiyoaki Suzuki, Prof. Shun Tokita, Prof. Run-Zi Wang
+    </div>
+    <div>
+      <strong>Activity:</strong> Successfully conducted synchrotron radiation experiments
+    </div>
+    <div>
+      <strong>Location:</strong> Nano Terasu, Sendai, Japan
+    </div>
+  </div>
+</div>
+
+
+<div class="member-profile">
+  <div class="member-photo">
+    {% include figure image_path="/assets/images/activities/20250227.jpg" alt="20250227" %}
+  </div>
   <div>
     <h3>News:</h3>
     <p class="member-position">Time: 2025.02.27</p>
