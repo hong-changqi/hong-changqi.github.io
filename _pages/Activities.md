@@ -6,14 +6,14 @@ classes: wide
 ---
 # Activities
 
+## NEW!!!
+
 <div class="news-profile">
   <div class="news-photo">
     {% include figure image_path="/assets/images/activities/20250227.jpg" alt="20250227" %}
   </div>
   <div> 
     <div class="news-time">
-      <i class="fas fa-newspaper-o fa-fw"></i>      
-      <i class="fab fa-newspaper-o fa-fw"></i>
       <strong>Time:</strong> 2025.02.27
     </div>
     <div class="news-bio">
@@ -27,6 +27,8 @@ classes: wide
     </div>
   </div>
 </div>
+
+<hr>
 
 <div class="news-profile">
   <div class="news-photo">
@@ -51,7 +53,8 @@ classes: wide
 
 <div class="news-profile">
   <div class="news-photo">
-    {% include figure image_path="/assets/images/activities/20241120.jpg" alt="20241120" %}
+    {% include figure image_path="/assets/images/activities/20241120-1.jpg" alt="20241120-1" %}
+    {% include figure image_path="/assets/images/activities/20241120-2.jpg" alt="20241120-2" %}
   </div>
   <div> 
     <div class="news-time">
