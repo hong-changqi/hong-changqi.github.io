@@ -12,6 +12,8 @@ classes: wide
   </div>
   <div> 
     <div class="news-time">
+      <i class="fas fa-newspaper-o fa-fw"></i>      
+      <i class="fab fa-newspaper-o fa-fw"></i>
       <strong>Time:</strong> 2025.02.27
     </div>
     <div class="news-bio">
