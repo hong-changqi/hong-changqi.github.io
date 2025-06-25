@@ -11,6 +11,28 @@ NEW
 
 <div class="news-profile">
   <div class="news-photo">
+    {% include figure image_path="/assets/images/activities/20250616.jpg" alt="20250616" %}
+  </div>
+  <div> 
+    <div class="news-time">
+      <strong>Time:</strong> 2025.06.16
+    </div>
+    <div class="news-bio">
+      <strong>Members:</strong> Prof. Run-Zi Wang
+    </div>
+    <div class="news-bio">
+      <strong>Activity:</strong> Awarded the TI-FRIS Fellow, which is incorporated into the MEXT Strategic Professional Development Program for Young Researchers.
+    </div>
+    <div class="news-bio">
+      <strong>Location:</strong> Tohoku University, Sendai, Japan
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<div class="news-profile">
+  <div class="news-photo">
     {% include figure image_path="/assets/images/activities/20250227.jpg" alt="20250227" %}
   </div>
   <div> 
@@ -28,8 +50,6 @@ NEW
     </div>
   </div>
 </div>
-
-<hr>
 
 <div class="news-profile">
   <div class="news-photo">
